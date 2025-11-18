@@ -32,7 +32,7 @@ Currently I’m working on projects involving AI agents, recommendation systems 
 
 ## 📩 Get in Touch  
 - Email: malviyaharshal11@gmail.com  
-- LinkedIn: [linkedin.com/in/Harshal-Malviya](https://www.linkedin.com/in/Harshal-Malviya)  
+- LinkedIn: [linkedin.com/in/Harshal-Malviya](https://www.linkedin.com/in/harshalmalviya11102005/)  
 - GitHub: [github.com/Harshal-Malviya](https://github.com/Harshal-Malviya)  
 
 ---
