@@ -24,9 +24,10 @@ Currently I’m working on projects involving AI agents, recommendation systems 
 
 ## 📂 Notable Projects  
 - **EcoML** - A python package for real-time CO₂, Energy, CPU/GPU Utilization & Hardware Recommendations directly inside python notebooks.
+-  **DoxAI** – A backend agent to accept uploads (.doc, .txt, .xlsx, .csv, .pdf, images), perform document parsing, answer questions, generate graphs and visualizations.  
 - **StreamSense** – A movie & TV show recommendation app: content-based filtering, fuzzy search, poster display, OTT platform linking.  
 - **MakeMeFit** – A web app for nutrition & health insights.  
-- **DoxAI** – A backend agent to accept uploads (.doc, .txt, .xlsx, .csv, .pdf, images), perform document parsing, answer questions, generate graphs and visualizations.  
+
 ---
 
 ## 📩 Get in Touch  
