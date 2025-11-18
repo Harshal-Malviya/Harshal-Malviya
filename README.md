@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Harshal Malviya</h1>
 
 - 👨‍💻 I'm a B.Tech student in **Artificial Intelligence & Data Science**  (Expected Graduation: **July 2027**)
-- 🚀 Currently building **StreamSense**, a movie and TV show recommendation platform  
+- 🚀 Currently building **DoxAI**, An intelligent AI insights agent for documents.
 - 🧠 I’m learning **machine learning**, building with **Flask**, and exploring **React**  
 - 🎯 I’m looking to collaborate on anything related to **AI**, **recommendation systems**, or cool tech projects  
 - 📬 Reach me at: **malviyaharshal11@gmail.com**  
