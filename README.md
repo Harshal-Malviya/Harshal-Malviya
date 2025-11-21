@@ -1,4 +1,4 @@
-# 👑 Harshal Malviya
+#  Harshal Malviya
 
 ## 🎓 About Me  
 I’m a B.Tech student in Artificial Intelligence & Data Science (expected graduation: July 2027).  
