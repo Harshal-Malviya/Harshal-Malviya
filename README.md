@@ -18,7 +18,7 @@ Currently I’m working on projects involving AI agents, recommendation systems 
 |-----------------------------|------------------------------|-----------------------------|
 | React, HTML, CSS, JavaScript | Flask, Python                | Pandas, NumPy, Scikit-Learn |
 | UI/UX: glassmorphism, animations | MySQL, SQLite, APIs          | ML modeling, recommendation systems |
-| Tools: VS Code, Git, GitHub, Google Colab | REST APIs, Docker basics     | Jupyter, pip ,Streamlit/Gradio  |
+| Tools: VS Code, Git, GitHub, Google Colab | REST APIs, Docker basics     | Jupyter, pip   |
 
 ---
 
