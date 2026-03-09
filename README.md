@@ -8,7 +8,8 @@ Currently I’m working on projects involving AI agents, recommendation systems 
 ---
 
 ## 🔍 Current Focus  
-- 🚀 Building **DoxAI**, an intelligent AI insights agent for document uploads and analysis.    
+- 🚀 Building **DoxAI**, an intelligent AI insights agent for document uploads and analysis.
+- 🚀 Building AutoEDA python package to automate data exploration process.
 - Learning & applying Machine Learning, Data Science, Deep Learning and efficient coding practices.  
 - Preparing for GSoC & open source contributions.  
 ---
