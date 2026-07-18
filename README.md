@@ -201,7 +201,5 @@ A content-based Movie & TV Recommendation System built using Flask, React, and S
 
 ---
 
-<p align="center">
-  <i>Building intelligent systems through data, machine learning, and scalable engineering.</i>
-</p>
+
 
